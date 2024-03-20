@@ -1,0 +1,52 @@
+body {
+    overflow-x: hidden;
+}
+.yeh{
+    display: inline;
+    margin-left: 50px;
+}
+.yah{
+    margin: 0;
+    margin-left: 360px;
+    margin-top: 20px;
+}
+.yah .yeh .yih {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-left: -10px;
+}
+.yah .yeh .yih:hover{
+    text-decoration: none;
+    border-bottom: 2px solid 	#910a49;
+    /* border-radius: 20px;  */
+    /* color: rgb(0, 0, 0); */
+    padding-bottom: 5px;
+   
+}
+/* .corousel {
+    width: 200vh;
+    height: 80vh;
+} */
+
+.propil {
+    margin-top: -65px;
+    color: #d6156f ;
+}
+.ne:hover {
+    background-color: rgb(211, 211, 211);
+   
+
+}
+.bungkus {
+    background-color:#f1b6a7 ;
+}
+.user {
+    border: 2px solid pink;
+    border-radius: 10px;
+}
+.useremail {
+    border: 2px solid pink;
+    border-radius: 10px;
+}
